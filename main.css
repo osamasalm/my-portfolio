@@ -259,6 +259,10 @@ nav {
     width: 2rem;
 }
 
+.social img:hover {
+    width: 2.05rem;
+}
+
 /* Responsive design  */
 
 @media (max-width: 1030px) {
